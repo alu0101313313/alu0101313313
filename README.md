@@ -39,7 +39,7 @@ I build software across the full stack and explore game development with multipl
       https://github-readme-stats.vercel.app/api?username=alu0101313313&show_icons=true&theme=github_dark&hide_border=true&count_private=true
     "
   />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alu0101313313&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alu0101313313&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)"

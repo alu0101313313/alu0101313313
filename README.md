@@ -36,7 +36,7 @@ I build software across the full stack and explore game development with multipl
   />
   <source media="(prefers-color-scheme: dark)"
     srcset="
-      https://github-readme-stats.vercel.app/api?username=alu0101313313&show_icons=true&theme=default&hide_border=true&count_private=true
+      https://github-readme-stats.vercel.app/api?username=alu0101313313&show_icons=true&theme=github_dark&hide_border=true&count_private=true
     "
   />
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=alu0101313313&show_icons=true&theme=default&hide_border=true&count_private=true" />
@@ -49,10 +49,10 @@ I build software across the full stack and explore game development with multipl
   />
   <source media="(prefers-color-scheme: dark)"
     srcset="
-      https://github-readme-stats.vercel.app/api/top-langs/?username=alu0101313313&layout=compact&theme=default&hide_border=true
+      https://github-readme-stats.vercel.app/api/top-langs/?username=alu0101313313&layout=compact&theme=github_dark&hide_border=true
     "
   />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alu0101313313&layout=compact&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alu0101313313&layout=compact&theme=github_dark&hide_border=true" />
 </picture>
 
 ---

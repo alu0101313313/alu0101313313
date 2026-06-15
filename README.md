@@ -6,6 +6,15 @@ I build software across the full stack and explore game development with multipl
 
 ---
 
+## Find me
+
+<a href="https://bsky.app/profile/yeivincuatro.bsky.social" target="_blank"><img src="https://skillicons.dev/icons?i=bluesky" /></a>
+<a href="https://x.com/YeivinCuatro" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://instagram.com/yeivin_cuatro/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://yeivincuatro.itch.io" target="_blank"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white&labelColor=FA5C5C" height="48" /></a>
+
+---
+
 ## Tech Stack
 
 **Languages**

@@ -34,7 +34,7 @@ I build software across the full stack and explore game development with multipl
       https://github-readme-stats.vercel.app/api?username=alu0101313313&show_icons=true&theme=github_dark&hide_border=true&count_private=true
     "
   />
-  <source media="(prefers-color-scheme: light)"
+  <source media="(prefers-color-scheme: dark)"
     srcset="
       https://github-readme-stats.vercel.app/api?username=alu0101313313&show_icons=true&theme=default&hide_border=true&count_private=true
     "
@@ -47,7 +47,7 @@ I build software across the full stack and explore game development with multipl
       https://github-readme-stats.vercel.app/api/top-langs/?username=alu0101313313&layout=compact&theme=github_dark&hide_border=true
     "
   />
-  <source media="(prefers-color-scheme: light)"
+  <source media="(prefers-color-scheme: dark)"
     srcset="
       https://github-readme-stats.vercel.app/api/top-langs/?username=alu0101313313&layout=compact&theme=default&hide_border=true
     "
@@ -56,5 +56,3 @@ I build software across the full stack and explore game development with multipl
 </picture>
 
 ---
-
-<sub>alu0101313313 · Built with Markdown</sub>

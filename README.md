@@ -36,7 +36,7 @@ I build software across the full stack and explore game development with multipl
 
 <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
 <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://codeberg.org" target="_blank"><img src="https://skillicons.dev/icons?i=codeberg" /></a>
+<a href="https://codeberg.org" target="_blank"><img src="https://cdn.simpleicons.org/codeberg" width="48" height="48" /></a>
 <a href="https://www.linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 <a href="https://www.jetbrains.com/rider" target="_blank"><img src="https://skillicons.dev/icons?i=rider" /></a>

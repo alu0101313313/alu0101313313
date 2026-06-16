@@ -1,10 +1,16 @@
-# Javier Ramos
+# Javier Ramos Carballo
 
 **Programmer · Game Developer**
 
 I build software across the full stack and explore game development with multiple engines. Interested in clean systems, interactive experiences, and tools that work.
 
-📍 Canary Islands, Spain &nbsp;·&nbsp; 🎮 Currently working on game dev projects &nbsp;·&nbsp; 📖 Learning Unreal Engine
+---
+
+## About Me
+
+📍 Canary Islands, Spain  
+🎮 Currently working on game dev projects  
+📖 Learning AI & Godot Engine  
 
 ---
 
@@ -65,5 +71,3 @@ I build software across the full stack and explore game development with multipl
 <a href="https://yeivincuatro.itch.io" target="_blank"><img src="https://cdn.simpleicons.org/itchdotio" width="48" height="48" /></a>
 
 ---
-
-<sub>alu0101313313 · Built with Markdown</sub>

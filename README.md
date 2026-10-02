@@ -1,4 +1,4 @@
-# Javier Ramos Carballo
+# José Javier Ramos Carballo
 
 **Programmer · Game Developer**
 
